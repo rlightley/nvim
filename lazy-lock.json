@@ -13,6 +13,7 @@
   "harpoon": { "branch": "harpoon2", "commit": "ed1f853847ffd04b2b61c314865665e1dadf22c7" },
   "lazy.nvim": { "branch": "main", "commit": "db067881fff0fd4be8c00e5bde7492e0e1c77a2f" },
   "lazydev.nvim": { "branch": "main", "commit": "01bc2aacd51cf9021eb19d048e70ce3dd09f7f93" },
+  "lazygit.nvim": { "branch": "main", "commit": "2305deed25bc61b866d5d39189e9105a45cf1cfb" },
   "lualine.nvim": { "branch": "master", "commit": "3946f0122255bc377d14a59b27b609fb3ab25768" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "1d77bd86e1c3eaa777010c95dad455b83823f247" },
   "mason-nvim-dap.nvim": { "branch": "main", "commit": "9a10e096703966335bd5c46c8c875d5b0690dade" },
